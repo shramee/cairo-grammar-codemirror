@@ -2,6 +2,8 @@
 
 ### WIP
 
+> Initial strategy is to use keywords from [keywords.adoc in starkware-libs/cairo](https://github.com/starkware-libs/cairo/blob/main/docs/reference/src/keywords.adoc). Pointers, suggestions and ideas verry welcome!
+
 This is an example repository containing a minimal [CodeMirror](https://codemirror.net/6/) language support package. The idea is to clone it, rename it, and edit it to create support for a new language.
 
 Things you'll need to do (see the [language support example](https://codemirror.net/6/examples/lang-package/) for a more detailed tutorial):
